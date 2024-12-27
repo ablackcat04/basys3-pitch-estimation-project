@@ -26,4 +26,4 @@ This project serves as an educational exploration of audio signal processing on 
 
 Here's a picture for reference. The audio interface is used as a amplifier only, if you also want to do that, make sure your audio interface has the direct monitoring feature.
 
-![](.\How%20to%20connect%20audio.png)of 
+![How_to_connect_audio.png](How_to_connect_audio.png)
